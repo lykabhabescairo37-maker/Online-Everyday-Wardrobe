@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <rect width="360" height="240" rx="24" ry="24" fill="#eaf8ff" />
+  <path d="M100 50 H130 L150 80 H210 L230 50 H260 L260 160 Q230 170 220 160 L220 120 Q200 130 180 130 Q160 130 140 120 L140 160 Q130 170 100 160 Z" fill="#4f83cc" />
+  <path d="M170 130 V170 M190 130 V170" stroke="#cbd5e1" stroke-width="12" stroke-linecap="round" />
+  <text x="180" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#102a43">Denim Jacket</text>
+</svg>

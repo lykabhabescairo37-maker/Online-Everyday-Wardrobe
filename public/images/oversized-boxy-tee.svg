@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <rect width="360" height="240" rx="24" ry="24" fill="#e0f2fe" />
+  <path d="M110 60 Q120 48 140 52 L220 52 Q240 48 250 60 L250 170 Q220 180 210 170 L210 140 Q190 150 170 150 Q150 150 130 140 L130 170 Q120 180 90 170 Z" fill="#60a5fa" />
+  <path d="M140 52 L140 92" stroke="#ffffff" stroke-width="10" stroke-linecap="round" />
+  <path d="M220 52 L220 92" stroke="#ffffff" stroke-width="10" stroke-linecap="round" />
+  <text x="180" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#1e3a8a">Boxy Tee</text>
+</svg>

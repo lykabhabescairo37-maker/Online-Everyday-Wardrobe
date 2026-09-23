@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320">
+  <rect width="500" height="320" rx="24" ry="24" fill="#f3f8ff" />
+  <rect x="60" y="48" width="380" height="200" rx="18" fill="#dbeafe" />
+  <path d="M60 120 H440" stroke="#93c5fd" stroke-width="26" stroke-linecap="round" />
+  <text x="250" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="28" fill="#2563eb">Offline Image</text>
+  <text x="250" y="228" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#475569">No internet required</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <rect width="360" height="240" rx="24" ry="24" fill="#f3faf8" />
+  <path d="M110 60 H250 V150 Q220 170 200 150 Q180 170 150 150 Z" fill="#f8e6d4" />
+  <path d="M110 60 Q130 40 150 60 H210 Q230 40 250 60" fill="#e2c7a5" />
+  <path d="M150 60 V90 M210 60 V90" stroke="#c19f78" stroke-width="10" stroke-linecap="round" />
+  <text x="180" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#3b4251">Linen Shorts</text>
+</svg>

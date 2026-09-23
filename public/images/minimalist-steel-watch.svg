@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <rect width="360" height="240" rx="24" ry="24" fill="#f4f7fb" />
+  <circle cx="180" cy="120" r="55" fill="#cbd5e1" />
+  <circle cx="180" cy="120" r="40" fill="#ffffff" />
+  <line x1="180" y1="120" x2="180" y2="90" stroke="#475569" stroke-width="10" stroke-linecap="round" />
+  <line x1="180" y1="120" x2="205" y2="120" stroke="#475569" stroke-width="10" stroke-linecap="round" />
+  <rect x="166" y="15" width="28" height="40" rx="10" fill="#9ca3af" />
+  <rect x="166" y="185" width="28" height="40" rx="10" fill="#9ca3af" />
+  <text x="180" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#1f2937">Steel Watch</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <rect width="360" height="240" rx="24" ry="24" fill="#eef7ff" />
+  <path d="M120 60 L150 170 L135 170 L135 210 L160 210 L170 165 L190 165 L200 210 L225 210 L225 170 L210 170 L240 60 Z" fill="#5b7db8" />
+  <path d="M145 130 L175 130 M185 130 L215 130" stroke="#dbeafe" stroke-width="10" stroke-linecap="round" />
+  <text x="180" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#102a43">Wide Trousers</text>
+</svg>
